@@ -1,0 +1,12 @@
+{
+  "name": "brokecoin",
+  "version": "1.0.0",
+  "description": "BrokeCoin, the cryptocurrency for Broke People(like me), This is a joke/educational project. **I take JOKES very seriously, read the next section**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
